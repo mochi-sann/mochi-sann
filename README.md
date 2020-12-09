@@ -15,5 +15,6 @@
 &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mochichi2003&count_private=true&theme=vue-dark&show_icons=true&layout=compact" />
 
 <!-- <hr> -->
+[![](https://raw.githubusercontent.com/Mochichi2003/Mochichi2003/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
