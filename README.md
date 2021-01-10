@@ -8,10 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mochi-sann" alt="mochichi" /> </p>
 
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&locale=en&layout=compact" />
-<!-- <br><br><br><br><br><br> -->
-
-&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&layout=compact&locale=en&" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&locale=en&layout=compact" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&layout=compact&locale=en&" />
 
 <!-- <hr> -->
 [![](https://raw.githubusercontent.com/mochi-sann/mochi-sann/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
