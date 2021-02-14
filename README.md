@@ -5,12 +5,25 @@
 <!-- <h1 align="center">Hi 👋, I'm Mochi</h1> -->
 <br>
 <h1 align="center">Hi 👋, I'm mochi-sann</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mochi-sann" alt="mochichi" /> </p> 
+<p align="left">
+ 
 
 <hr>
+<!-- 
+![](https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=&card_width=)
+<br> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=2000" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=2000" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=compact&card_width=250&langs_count=9&hide=ruby" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://card.mochisann.net/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true" />
+</a>
+
+
+<!--  ![](https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=compact&card_width=250&langs_count=9&hide=ruby)
+![](https://card.mochisann.net/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true) -->
+<!-- <img align="left" src="https://card.mochisann.net/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000" /> -->
 
 <!-- <hr> -->
 [![](https://raw.githubusercontent.com/mochi-sann/mochi-sann/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -26,5 +39,13 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mochi-sann&" alt="mochi-sann" /></p>
+
+
+
+
+
+
+
+
 
 
