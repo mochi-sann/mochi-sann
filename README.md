@@ -5,9 +5,10 @@
 <!-- <h1 align="center">Hi 👋, I'm Mochi</h1> -->
 <br>
 <h1 align="center">Hi 👋, I'm mochi-sann</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mochi-sann" alt="mochichi" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mochi-sann" alt="mochichi" /> </p> 
 
 <hr>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=2000" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=2000" />
 
