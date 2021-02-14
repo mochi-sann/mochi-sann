@@ -9,7 +9,7 @@
 
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=2000" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&layout=compact&cache_seconds=2000" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=2000" />
 
 <!-- <hr> -->
 [![](https://raw.githubusercontent.com/mochi-sann/mochi-sann/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
