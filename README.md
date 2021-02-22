@@ -14,7 +14,7 @@
 <br> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=compact&card_width=250&langs_count=9&hide=ruby" />
+  <img align="center" src="https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=compact&card_width=250&langs_count=8" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://card.mochisann.net/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true" />
