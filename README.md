@@ -7,15 +7,18 @@
 <h1 align="center">Hi 👋, I'm mochi-sann</h1>
 <p align="left">
  
-<img align="center" src="https://komarev.com/ghpvc/?username=mochi-sann" />
-<hr>
+ <img align="center" src="https://komarev.com/ghpvc/?username=mochi-sann" />
+<hr> 
 <!-- 
 ![](https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=&card_width=)
 <br> -->
-
+<!-- ああああああああああああ
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=compact&card_width=250&langs_count=8" />
 </a>
+-->
+
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://card.mochisann.net/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true" />
 </a>
