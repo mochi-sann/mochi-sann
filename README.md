@@ -3,12 +3,10 @@
 
 
 <!-- <h1 align="center">Hi 👋, I'm Mochi</h1> -->
-<br>
-<h1 align="center">Hi 👋, I'm mochi-sann</h1>
-<p align="left">
+
  
  <img align="center" src="https://komarev.com/ghpvc/?username=mochi-sann" />
-<hr> 
+
 <!-- 
 ![](https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=&card_width=)
 <br> -->
