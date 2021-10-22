@@ -27,10 +27,12 @@
 <!-- <img align="left" src="https://card.mochisann.net/api?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000" /> -->
 
 <!-- <hr> -->
-[![](https://raw.githubusercontent.com/mochi-sann/mochi-sann/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- [![](https://raw.githubusercontent.com/mochi-sann/mochi-sann/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 
 
+![](https://raw.githubusercontent.com/mochi-sann/mochi-github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)
+![](https://raw.githubusercontent.com/mochi-sann/mochi-github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
 
 
 
