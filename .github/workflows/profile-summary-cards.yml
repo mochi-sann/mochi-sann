@@ -1,10 +1,17 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  push: master
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+  # run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # allows to manually run the job at any time
   workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
 
 jobs:
   genSnake:
