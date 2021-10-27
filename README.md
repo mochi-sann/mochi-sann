@@ -7,6 +7,9 @@
  
  <img align="center" src="https://komarev.com/ghpvc/?username=mochi-sann" />
 
+<a href="https://github.com/Platane/snk"> 
+ <img align="center" src="https://raw.githubusercontent.com/mochi-sann/mochi-sann/output/github-contribution-grid-snake.svg" />
+</a>
 <!-- 
 ![](https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=&card_width=)
 <br> -->
