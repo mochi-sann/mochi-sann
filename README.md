@@ -49,7 +49,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mochi-sann&" alt="mochi-sann" /></p> -->
 
-
+[![](https://raw.githubusercontent.com/mochi-sann/mochi-sann/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 
 
