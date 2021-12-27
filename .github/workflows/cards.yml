@@ -18,7 +18,7 @@ jobs:
           user: mochi-sann
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: large
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_display: detailed
