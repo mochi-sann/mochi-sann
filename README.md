@@ -54,7 +54,7 @@
 
 
 
-<a href="https://github.com/lowlighter/metrics)"><img src="https://raw.githubusercontent.com/mochi-sann/mochi-sann/master/github-metrics.svg" style='width: 100%' alt=""></a>
+<a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/mochi-sann/mochi-sann/master/github-metrics.svg" style='width: 100%' alt=""></a>
 
 
 
