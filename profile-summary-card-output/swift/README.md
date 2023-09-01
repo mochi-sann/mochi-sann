@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/mochi-sann/mochi-sann/master/profile-summary-card-output/swift/4-productive-time.svg)
+```
+
+    
