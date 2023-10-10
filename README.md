@@ -23,7 +23,6 @@
   />
 </picture>
 
- <img align="center" src="" />
 </a>
 <!-- 
 ![](https://card.mochisann.net/api/top-langs/?username=mochi-sann&count_private=true&theme=dracula&show_icons=true&cache_seconds=10000&include_all_commits=true&layout=&card_width=)
