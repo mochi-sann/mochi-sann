@@ -11,7 +11,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mochi-sann/mochi-sann/output/github-snake.svg?palette=github-dark"
+    srcset="https://raw.githubusercontent.com/mochi-sann/mochi-sann/output/github-snake-dark.svg?palette=github-dark"
   />
   <source
     media="(prefers-color-scheme: light)"
